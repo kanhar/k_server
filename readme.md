@@ -17,3 +17,5 @@ S (5,10)   (15,37)
  2) If not compute the distance and put it in an array of occuring distances.
  3) Sort the array.
  4) Perform binary search on that array to find the smallest distance d such that if you connect only point pairs of distance at most d, the start to target point are in the same connected component.then you select a path from start to target in that component,and display the points,obstacles, and the resulting path in a window. 
+
+More details: http://kmwiki.info/wiki/index.php/Code/CPlusPlus/K-Server
